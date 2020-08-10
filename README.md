@@ -43,3 +43,5 @@ logo não segui por esse caminho.
 ```shell 
 python3 apicotacao.py YYYYMMDD
 ```
+
+Code by _Matheus Monteiro_.
